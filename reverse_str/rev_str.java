@@ -40,7 +40,13 @@ f = f + split[i] + " ";
 
 System.out.println("reverse string is : " + f);
 
-System.out.println("this is how we do");
+int a,b,c;
+a=sc.nextInt();
+b=sc.nextInt();
+c=a+b;
+
+System.out.println(c);
+
 
 }
 
